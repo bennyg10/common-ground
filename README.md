@@ -1,8 +1,5 @@
 # Common Ground — Construction OS
 
-**2560 Coolidge Ave · Santa Monica, CA**
-Client: Ben & Svetlana Gordon · GC: Lance Todd Construction · Designer: Ebru Kuyak
-
 ## Live platform
 Auto-deploys via Vercel on every push to `main`.
 
